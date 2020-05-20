@@ -1,4 +1,5 @@
 # Command-prompt-RPG
+<img src="rpg_screenshot.jpg" width=800 height =400>
 A simple text based RPG written in C++
 
 
